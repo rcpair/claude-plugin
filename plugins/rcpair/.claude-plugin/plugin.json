@@ -1,0 +1,30 @@
+{
+  "name": "rcpair",
+  "version": "0.1.0",
+  "description": "Test your iOS app on a real iPhone or iPad from Claude Code: run, tap, type, scroll, read the screen and take screenshots on your own device. Pick up where Xcode and the simulator stop: real camera, notifications, sign-ins and speed. Works from Windows, Mac or Linux, no Mac needed.",
+  "author": {
+    "name": "Rising Creek Construction LLC",
+    "url": "https://rcpair.si"
+  },
+  "homepage": "https://rcpair.si",
+  "keywords": [
+    "ios",
+    "iphone",
+    "ipad",
+    "xcode",
+    "simulator",
+    "device",
+    "real-device",
+    "swift",
+    "swiftui",
+    "testing",
+    "ui-testing",
+    "app-testing",
+    "qa",
+    "mobile",
+    "screenshot",
+    "apple",
+    "mcp"
+  ],
+  "displayName": "RC Pair"
+}
