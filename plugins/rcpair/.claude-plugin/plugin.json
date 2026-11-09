@@ -26,5 +26,6 @@
     "apple",
     "mcp"
   ],
-  "displayName": "RC Pair"
+  "displayName": "RC Pair",
+  "license": "FSL-1.1-ALv2"
 }
